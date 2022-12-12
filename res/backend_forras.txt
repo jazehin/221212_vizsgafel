@@ -1,0 +1,13 @@
+un: user@bestgames.vrbly
+pw: MgLKa_nx2NZs
+
+seed:
+Sql("INSERT INTO Genres VALUES (1, 'Action');");
+Sql("INSERT INTO Genres VALUES (23, 'Role-playing');");
+Sql("INSERT INTO Genres VALUES (31, 'Strategy');");
+
+Sql("INSERT INTO Games VALUES('Pillars of Eternity', '2015-03-26', 23);");
+Sql("INSERT INTO Games VALUES('Sid Meier''s Civilization VI', '2016-10-21', 31);");
+Sql("INSERT INTO Games VALUES('Batman: Arkham Knight', '2015-06-23', 1);");
+Sql("INSERT INTO Games VALUES('ELDEN RING', '2022-02-25', 23);");
+Sql("INSERT INTO Games VALUES('StarCraft II: Wings of Liberty', '2010-06-27', 31);");

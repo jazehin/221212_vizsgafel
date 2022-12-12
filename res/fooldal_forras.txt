@@ -1,0 +1,32 @@
+--a videójátékokról--
+
+A videójáték olyan elektronikus játék, amely a felhasználói felülettel való folyamatos kölcsönhatást foglal magában, valósidejű vizuális visszajelzést hoz létre a két- vagy háromdimenziós megjelenítő eszközön (pl. tévéképernyőn vagy számítógépes monitoron), valamint további érzékszerveinkre is hat. Az 1980-as évek óta a videójátékok a szórakoztatóipar egyre fontosabb részévé váltak, és akár tekinthetők a művészetek egyik formájának is.
+
+Ma már annyira népszerűek és elterjedtek, hogy fogyasztói nem is szubkultúrának számítanak.
+
+A videójátékokra használt elektronikai eszközök a „platform” megnevezésként ismertek, melyek két főcsoportja a személyi számítógépek (szoftveres platformot és megkülönböztetve) és az otthoni és játéktermi használtra szánt videójáték-konzolok. Utóbbiak különböző mértékig hasonlóak a mechanikus elemeket is tartalmazó játékgépekhez és játékautomatákhoz.
+
+A videójátékok irányítására számos különböző eszközt hoztak létre a különböző platformokra. A korai személyi számítógépre készült játékok csupán a szabványos billentyűzet lehetőségeit használhatták, amit később ki lehetett egészíteni egy egygombos botkormánnyal. Ezzel szemben videójáték-konzolok kevés számú gombbal, botkormánnyal vagy egyedi eszközökkel (pisztoly, kormány) voltak vezérelhetők.
+
+A mai modern számítógépes játékban a játékos egyidejűleg használja a billentyűzetet és az egeret az irányításban. A konzoloknál a kézbe vehető, pár gombbal és ujjnyi botkormánnyal ellátott játékvezérlők (kontrollerek) terjedtek el. Az autóverseny-játékokra létezik a valós vezetést idéző kormány, pedál, váltó és kézifék készlet is.
+
+Mint a média legtöbb formája, a videójátékok is különböző műfajokba sorolhatóak számos különböző jellemvonás alapján, mint a játékmenet, a célok fajtái stb. A játékok fejlődésével a műfajok is változtak az idők folyamán, ahogy új játékstílusok jöttek létre különböző tartalmakkal.
+
+--műfajok--
+
+A néhány videójáték műfaj és alműfajai a magyar wikipédia szócikk alapján:
+
+Akció
+	FPS (First Person Shooter)
+	TPS (Third-person shooter)
+	Oldalnézetes akciójáték
+Ügyességi
+	Platformer
+Kaland
+Szerepjátékok
+	MMORPG (Massively Multiplayer Online Role-Playing Game)
+	RPG (Role-Playing Game)
+Stratégiai játékok
+	RTS (real time strategy)
+	Valós idejű taktika
+	Körökre osztott stratégia

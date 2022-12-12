@@ -1,0 +1,6 @@
+https://www.google.com/search?q=
+
+C# liklabel linkclicked eventbe, ha az 'alapértelmezés' nem működne:
+/*
+	Process.Start(new ProcessStartInfo(lnkGoogle.Text) { UseShellExecute = true });
+*/
