@@ -11,6 +11,7 @@ namespace _221212_vizsgafel
             F1();
             F2();
             F3();
+            Console.ReadKey(false);
         }
 
         private static void F3()
